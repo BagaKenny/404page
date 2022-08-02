@@ -3,6 +3,8 @@
     padding: 0;
 }
 
+@import url('http://fonts.cdnfonts.com/css/bigilla');
+
 body {
     background-color: #e0e0e0;
     height: 100vh;
